@@ -1,3 +1,4 @@
 # Multithread-Programming-Rainfall-Simulation
-ece565 coursework
+
+Practice of Parallelism
 
